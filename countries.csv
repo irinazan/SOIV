@@ -1,0 +1,53 @@
+State,Abbreviation,Capital,Largest_city,TotalArea,LandArea,WaterArea,Density,Population
+Alabama,AL,Montgomery,Birmingham,52420,50645,1775,98,4949697
+Alaska,AK,Juneau,Anchorage,665384,570641,94743,1,720763
+Arizona,AZ,Phoenix,Phoenix,113990,113594,396,67,7640796
+Arkansas,AR,Little Rock,Little Rock,53179,52035,1143,58,3042017
+California,CA,Sacramento,Los Angeles,163696,155779,7916,255,39664128
+Colorado,CO,Denver,Denver,104094,103642,452,58,5961083
+Connecticut,CT,Hartford,Bridgeport,5543,4842,701,732,3546588
+Delaware,DE,Dover,Wilmington,2489,1949,540,512,998619
+Florida,FL,Tallahassee,Jacksonville,65758,53625,12133,414,22177997
+Georgia,GA,Atlanta,Atlanta,59425,57513,1912,190,10936299
+Hawaii,HI,Honolulu,Honolulu,10932,6423,4509,218,1401709
+Idaho,ID,Boise,Boise,83569,82643,926,23,1896652
+Illinois,IL,Springfield,Chicago,57914,55519,2395,225,12518071
+Indiana,IN,Indianapolis,Indianapolis,36420,35826,593,191,6842385
+Iowa,IA,Des Moines,Des Moines,56273,55857,416,57,3174426
+Kansas,KS,Topeka,Wichita,82278,81759,520,36,2919179
+Kentucky,KY,Frankfort,Louisville,40408,39486,921,114,4487233
+Louisiana,LA,Baton Rouge,New Orleans,52378,43204,9174,107,4616106
+Maine,ME,Augusta,Portland,35380,30843,4537,44,1359677
+Maryland,MD,Annapolis,Baltimore,12406,9707,2699,626,6075314
+Massachusetts,MA,Boston,Boston,10554,7800,2754,887,6922107
+Michigan,MI,Lansing,Detroit,96714,56539,40175,177,9995212
+Minnesota,MN,St. Paul,Minneapolis,86936,79627,7309,72,5739781
+Mississippi,MS,Jackson,Jackson,48432,46923,1509,63,2961536
+Missouri,MO,Jefferson City,Kansas City,69707,68742,965,90,6184843
+Montana,MT,Helena,Billings,147040,145546,1494,8,1093117
+Nebraska,NE,Lincoln,Omaha,77348,76824,524,26,1960790
+Nevada,NV,Carson City,Las Vegas,110572,109781,791,30,3238601
+New Hampshire,NH,Concord,Manchester,9349,8953,397,154,1378449
+New Jersey,NJ,Trenton,Newark,8723,7354,1368,1206,8870685
+New Mexico,NM,Santa Fe,Albuquerque,121590,121298,292,17,2109093
+New York,NY,Albany,New York,54555,47126,7429,408,19223191
+North Carolina,NC,Raleigh,Charlotte,53819,48618,5201,222,10807491
+North Dakota,ND,Bismarck,Fargo,70698,69001,1698,11,774008
+Ohio,OH,Columbus,Columbus,44826,40861,3965,287,11727377
+Oklahoma,OK,Oklahoma City,Oklahoma City,69899,68595,1304,58,4007179
+Oregon,OR,Salem,Portland,98379,95988,2391,45,4325290
+Pennsylvania,PA,Harrisburg,Philadelphia,46054,44743,1312,286,12805190
+Rhode Island,RI,Providence,Providence,1545,1034,511,1028,1062583
+South Carolina,SC,Columbia,Columbia,32020,30061,1960,178,5342388
+South Dakota,SD,Pierre,Sioux Falls,77116,75811,1305,12,902542
+Tennessee,TN,Nashville,Memphis,42144,41235,909,170,7001803
+Texas,TX,Austin,Houston,268596,261232,7365,115,30097526
+Utah,UT,Salt Lake City,Salt Lake City,84897,82170,2727,41,3363182
+Vermont,VT,Montpelier,Burlington,9616,9217,400,68,622882
+Virginia,VA,Richmond,Virginia Beach,42775,39490,3285,219,8638218
+Washington,WA,Olympia,Seattle,71298,66456,4842,119,7887965
+West Virginia,WV,Charleston,Charleston,24230,24038,192,73,1755715
+Wisconsin,WI,Madison,Milwaukee,65496,54158,11339,108,5867518
+Wyoming,WY,Cheyenne,Cheyenne,97813,97093,720,6,582233
+Wyoming,WY,"580,116",Cheyenne,91813,92093,500,85,653421
+Puerto Rico*,PR,"3,193,694",San Juan,94813,91093,600,43,435465
